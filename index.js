@@ -11,7 +11,7 @@ Do you follow it, or continue on your path?`)
         if (thirdAnswer === 'stay') {
             window.alert(`You live happily amongst the cats for the rest of your days.`)
         } else if (thirdAnswer === 'spread the word') {
-            window.alert(`You live happily amongst the cats for the rest of your days.`)
+            window.alert(`After leaving the cat colony, you are never able to find it again; without proof, no one believes your story, which passes into legend nonetheless`)
         }
     } else if (secondAnswer === 'continue') {
         let thirdAnswer = window.prompt(`You come across a chamber that reaches upward to a shining light above.
